@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T10:20:16.192Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="hkHZeB08at89U3Belahq" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-15T11:29:12.872Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="x-V-j8qd33x_dlW1RZVI" version="21.0.6" type="github">
   <diagram id="txx3bHHGOBFFJghas2Wa" name="Страница 1">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -42,15 +42,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uhG8UHSYETovZm9aPu19-27" value="single type" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#009900;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="uhG8UHSYETovZm9aPu19-14" target="AzMbnHq6-pzzuQCgAMzn-21" edge="1">
-          <mxGeometry x="-0.7892" relative="1" as="geometry">
+        <mxCell id="uhG8UHSYETovZm9aPu19-27" value="single type" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#009900;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;" parent="1" source="agxz_xLqVICA8_SgxZ1v-5" target="AzMbnHq6-pzzuQCgAMzn-21" edge="1">
+          <mxGeometry x="-1" y="-210" relative="1" as="geometry">
             <mxPoint x="60" y="279" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="40" y="274" />
               <mxPoint x="40" y="679" />
               <mxPoint x="510" y="679" />
             </Array>
-            <mxPoint as="offset" />
+            <mxPoint x="210" y="-210" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uhG8UHSYETovZm9aPu19-14" value="Тип реквизита?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;arcSize=0;fontStyle=0;verticalAlign=middle;horizontal=1;" parent="1" vertex="1">
@@ -215,6 +214,20 @@
         </mxCell>
         <mxCell id="uhG8UHSYETovZm9aPu19-58" value="RefMultyEn" style="text;html=1;strokeColor=#9673a6;fillColor=#4D4D4D;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#66FF66;" parent="1" vertex="1">
           <mxGeometry x="553" y="500.25" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="agxz_xLqVICA8_SgxZ1v-2" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="agxz_xLqVICA8_SgxZ1v-6" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#009900;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;" edge="1" parent="1" source="uhG8UHSYETovZm9aPu19-14" target="agxz_xLqVICA8_SgxZ1v-5">
+          <mxGeometry x="-0.7892" relative="1" as="geometry">
+            <mxPoint x="100" y="274" as="sourcePoint" />
+            <Array as="points" />
+            <mxPoint as="offset" />
+            <mxPoint x="510" y="739" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="agxz_xLqVICA8_SgxZ1v-5" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Постфикс имени должен быть&lt;/font&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;_Key&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="440" width="60" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
