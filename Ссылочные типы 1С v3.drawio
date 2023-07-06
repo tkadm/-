@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T14:08:58.445Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="7evSsd-rcgi51aewQPee" version="21.1.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-06T12:37:22.285Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="2gt240kzj2ZJIHYGLrBH" version="21.5.2" type="github" pages="2">
   <diagram id="txx3bHHGOBFFJghas2Wa" name="Атрибуты ссылочных типов">
     <mxGraphModel dx="1434" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -85,6 +85,9 @@
         <mxCell id="jhGRHMNOVWTFbntyYFQe-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="jhGRHMNOVWTFbntyYFQe-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="600" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="jhGRHMNOVWTFbntyYFQe-11" value="&lt;font color=&quot;#4c0099&quot;&gt;Создание IRefInst:&lt;br&gt;&lt;ul&gt;&lt;li&gt;автоматически&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#4c0099&quot;&gt;в обработчике Routine&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;arcSize=0;fontStyle=0;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -102,13 +105,14 @@
         <mxCell id="jhGRHMNOVWTFbntyYFQe-15" value="Создание IRefInst:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Инициализацией свойства&lt;/li&gt;&lt;li&gt;в обработчике Routine&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;rounded=0;strokeColor=#d6b656;fontColor=#4C0099;align=left;" parent="1" vertex="1">
           <mxGeometry x="610" y="235" width="180" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="jhGRHMNOVWTFbntyYFQe-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="jhGRHMNOVWTFbntyYFQe-17" edge="1">
+        <mxCell id="jhGRHMNOVWTFbntyYFQe-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="510" y="740" as="targetPoint" />
+            <mxPoint x="510" y="739" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="910" y="530" />
-              <mxPoint x="510" y="530" />
+              <mxPoint x="910" y="529" />
+              <mxPoint x="510" y="529" />
             </Array>
+            <mxPoint x="910" y="534" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jhGRHMNOVWTFbntyYFQe-17" value="Создание IRefInst:&lt;br&gt;&lt;ul&gt;&lt;li&gt;автоматически&lt;/li&gt;&lt;li&gt;в обработчике Routine&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;rounded=0;strokeColor=#d6b656;fontColor=#4C0099;align=left;" parent="1" vertex="1">
