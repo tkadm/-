@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-07T14:56:40.206Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="rMrFx4SwdvtlhglF-3Gz" version="21.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-20T07:43:06.028Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="EoqPu3QD62kLvZJ6bNc7" version="21.6.1" type="github" pages="2">
   <diagram id="txx3bHHGOBFFJghas2Wa" name="Атрибуты ссылочных типов">
-    <mxGraphModel dx="1509" dy="1665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,7 +93,7 @@
         <mxCell id="jhGRHMNOVWTFbntyYFQe-11" value="&lt;font color=&quot;#4c0099&quot;&gt;Создание IRefInst:&lt;br&gt;&lt;ul&gt;&lt;li&gt;автоматически&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#4c0099&quot;&gt;в обработчике Routine&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;arcSize=0;fontStyle=0;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="280" y="560" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qRuLulFBwrKJsEbaOMqw-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jhGRHMNOVWTFbntyYFQe-15" target="AzMbnHq6-pzzuQCgAMzn-21">
+        <mxCell id="qRuLulFBwrKJsEbaOMqw-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jhGRHMNOVWTFbntyYFQe-15" target="AzMbnHq6-pzzuQCgAMzn-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="700" y="530" />
